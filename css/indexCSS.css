@@ -39,7 +39,7 @@
             }
         </style>
         <div id="ITMS"> 
-            <img src="north.jpg" width="320" height="390" alt="picture not loading"/>   
+            <img src="..north.jpg" width="320" height="390" alt="picture not loading"/>   
             <h3 style="text-shadow: 2px 2px 5px #FF7043";>Introduce My Self</h3>
             <ul style="color: #607D8B;">
                 <li><strong>My Name is</strong> Manatsanan Udomrat </li>
@@ -64,7 +64,7 @@
         </style>
         <div id="videoITMS">
             <p>My introduction video </p>
-            <video src="videome.mp4" width="520" height="430" controls>
+            <video src="..videome.mp4" width="520" height="430" controls>
                video not supported
             </video>
         </div>
